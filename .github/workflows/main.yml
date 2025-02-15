@@ -13,7 +13,7 @@ jobs:
   build-and-push:
     # Isi sesuai runner yang dimiliki
     # runs-on: private-runner
-    runs-on: ubuntu:latest
+    runs-on: ubuntu-latest
     # Isi sesuai nama environment
     environment: DEV
 
